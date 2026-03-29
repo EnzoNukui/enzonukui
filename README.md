@@ -1,60 +1,66 @@
-# Eu sou o Enzo 👊
+<div align="center">
 
--  Estudante de **ADS na FIAP**
--  Estudante de **Administração no IFSP**
--  Inglês Avançado — **Certificação Cambridge**
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Enzo%20Mukui&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Developer%20%7C%20São%20Paulo%2C%20BR&descAlignY=75&descSize=16)
 
----
-
-##  Sobre mim
-
-Estou no início da minha trajetória na tecnologia e focado em evoluir por meio de estudos, prática e projetos que me ajudem a resolver problemas reais.
+</div>
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+### Olá! Eu sou o Enzo 
+
+Desenvolvedor com foco em resolver problemas reais — não só escrever código.
+
+Estudante de **ADS na FIAP** e **Administração no IFSP**, combino visão técnica com visão de negócio. Tenho experiência prática construindo sistemas que foram para produção.
+
+Apaixonado por tecnologia, automação e produtos que fazem sentido para quem usa.  
+Inglês avançado — Cambridge Advanced (CAE).
+
+---
+
+### 🛠 Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="45" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,java,python,tailwind,supabase,git,github,vscode" />
 </p>
 
 ---
 
-##  Projeto em destaque
-
-**Sistema de Gerenciamento de Uniformes**  
-Projeto criado para organizar cadastro, estoque e entrega de uniformes a partir de uma necessidade real observada no trabalho.
-
----
-
-##  Contato
+### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/enzo-nukui" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:enzonukui2007@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNukui&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enzomukui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomukui&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnzoNukui/EnzoNukui/output/pacman-contribution-graph-dark.svg">
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnzoNukui/EnzoNukui/output/pacman-contribution-graph.svg">
+
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EnzoNukui/EnzoNukui/output/pacman-contribution-graph.svg">
+
 </picture>
 
-###
+---
+
+### Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzomukui/enzomukui/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzomukui/enzomukui/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzomukui/enzomukui/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer)
+
+</div>

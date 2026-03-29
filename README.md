@@ -17,9 +17,7 @@ Inglês avançado — Cambridge Advanced (CAE).
 
 ---
 
-### 🛠 Stack
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,idea" />
 </p>
 </p>
@@ -28,7 +26,7 @@ Inglês avançado — Cambridge Advanced (CAE).
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=enzonukui&theme=dark&hide_border=true&locale=pt_BR"/>
 </p>
 </p>

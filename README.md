@@ -51,3 +51,7 @@ Projeto criado para organizar cadastro, estoque e entrega de uniformes a partir 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=EnzoNukui&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNukui&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EnzoNukui/EnzoNukui/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" />
+</p>

@@ -24,6 +24,15 @@ Inglês avançado — Cambridge Advanced (CAE).
 </p>
 </p>
 
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enzomukui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomukui&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
+
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnzoNukui/EnzoNukui/output/pacman-contribution-graph-dark.svg">
@@ -34,26 +43,9 @@ Inglês avançado — Cambridge Advanced (CAE).
 
 </picture>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enzomukui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomukui&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
-### Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzomukui/enzomukui/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzomukui/enzomukui/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzomukui/enzomukui/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 ### Contato
 

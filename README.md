@@ -20,7 +20,8 @@ Inglês avançado — Cambridge Advanced (CAE).
 ### 🛠 Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,java,python,tailwind,supabase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,idea" />
+</p>
 </p>
 
 <picture>

@@ -17,19 +17,23 @@ Inglês avançado — Cambridge Advanced (CAE).
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,idea" />
-</p>
-</p>
+<div align="center">
+
+###  Stacks
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,idea" />
+
+</div>
 
 ---
 
+<div align="center">
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=enzonukui&theme=dark&hide_border=true&locale=pt_BR"/>
-</p>
-</p>
+<img src="https://streak-stats.demolab.com?user=enzomukui&theme=dark&hide_border=true&locale=pt_BR"/>
+
+</div>
 
 <picture>
 

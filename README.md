@@ -29,10 +29,8 @@ Inglês avançado — Cambridge Advanced (CAE).
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enzomukui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&v=2"/>
+  <img src="https://streak-stats.demolab.com?user=enzomukui&theme=dark&hide_border=true&locale=pt_BR"/>
 </p>
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomukui&layout=compact&theme=tokyonight&hide_border=true&v=2"/>
 </p>
 
 <picture>

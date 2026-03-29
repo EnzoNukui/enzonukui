@@ -57,7 +57,7 @@ Inglês avançado — Cambridge Advanced (CAE).
   <a href="https://linkedin.com/in/enzo-nukui">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" />
   </a>
   <a href="https://instagram.com/enzo.nks">

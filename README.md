@@ -1,12 +1,12 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Enzo%20Mukui&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Developer%20%7C%20São%20Paulo%2C%20BR&descAlignY=75&descSize=16)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Enzo%20Nukui&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Developer%20%7C%20São%20Paulo%2C%20BR&descAlignY=75&descSize=16)
 
 </div>
 
 ---
 
-### Olá! Eu sou o Enzo 
+### Olá! Eu sou o Enzo
 
 Desenvolvedor com foco em resolver problemas reais — não só escrever código.
 
@@ -23,15 +23,6 @@ Inglês avançado — Cambridge Advanced (CAE).
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,java,python,tailwind,supabase,git,github,vscode" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enzomukui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomukui&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnzoNukui/EnzoNukui/output/pacman-contribution-graph-dark.svg">
@@ -41,6 +32,15 @@ Inglês avançado — Cambridge Advanced (CAE).
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EnzoNukui/EnzoNukui/output/pacman-contribution-graph.svg">
 
 </picture>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enzomukui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomukui&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 

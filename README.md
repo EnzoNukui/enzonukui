@@ -56,11 +56,21 @@ Inglês avançado — Cambridge Advanced (CAE).
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+### 🤝 Vamos fazer network!
 
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer)
+<p align="left">
+  <a href="https://linkedin.com/in/enzo-nukui">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  </a>
+  <a href="mailto:SEU-EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  </a>
+  <a href="https://instagram.com/enzo.nks">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" />
+  </a>
+  <a href="https://discord.com/users/605813322725588993">
+    <img src="https://skillicons.dev/icons?i=discord" width="48" />
+  </a>
+</p>
 
 </div>

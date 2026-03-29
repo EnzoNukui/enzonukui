@@ -21,6 +21,7 @@ Inglês avançado — Cambridge Advanced (CAE).
 
 ###  Stacks
 
+
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,idea" />
 
 </div>
@@ -51,7 +52,6 @@ Inglês avançado — Cambridge Advanced (CAE).
 
 ### Contato
 
-### 🤝 Vamos fazer network!
 
 <p align="left">
   <a href="https://linkedin.com/in/enzo-nukui">

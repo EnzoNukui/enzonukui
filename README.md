@@ -25,22 +25,34 @@ Advanced English — Cambridge CAE certified.
 
 ### Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,git,github,vscode" />
-</div>
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+**Back-end**
+
+<img src="https://skillicons.dev/icons?i=python,java,nodejs" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=enzonukui&theme=dark&hide_border=true&locale=pt_BR" />
+  <img src="https://streak-stats.demolab.com?user=enzonukui&theme=transparent&hide_border=true&locale=pt_BR&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&sideLabels=4A90D9&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNukui&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNukui&layout=compact&theme=transparent&hide_border=true&title_color=4A90D9&text_color=ffffff" />
 </div>
 
 ---
@@ -48,21 +60,9 @@ Advanced English — Cambridge CAE certified.
 ### Let's connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/enzo-nukui">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/enzo.nks">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</div>
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enzo-nukui)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enzo.nks)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EnzoNukui/EnzoNukui/output/pacman-contribution-graph.svg" />
 </div>

@@ -66,7 +66,7 @@ Advanced English — Cambridge CAE certified.
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=enzonukui&theme=transparent&hide_border=true&locale=pt_BR&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&sideLabels=4A90D9&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=enzonukui&theme=meta-light&hide_border=true&locale=pt_BR" />
 </div>
 
 ---

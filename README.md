@@ -1,121 +1,115 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Enzo Nukui GitHub Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Enzo Nukui GitHub Banner" width="85%" />
 </p>
 
-<h2 align="center">
-  Building through errors and learning through failures,<br>
-  until the progress speaks for itself.
-</h2>
+<p align="center">
+  <strong>
+    Building through errors and learning through failures,<br>
+    until the progress speaks for itself.
+  </strong>
+</p>
 
 <p align="center">
   ADS Student • Full-stack in progress • Growing into back-end
 </p>
 
-<br>
+---
 
-## About
+<h3 align="center">Know About Me</h3>
 
-I'm currently studying **Análise e Desenvolvimento de Sistemas** and building my path through real projects, practice and continuous improvement.
-
-I like turning ideas into functional projects while learning the tools, logic and structure behind software development.
-
-<br>
-
-## Education & Learning
-
-| Education | Institution | Status |
-|---|---|---|
-| **Análise e Desenvolvimento de Sistemas** | FIAP | Expected graduation: 2027 |
-| **Administração** | IFSP | Technical background in management and business fundamentals |
-| **Cambridge English Certificate** | Cambridge English | English certification focused on communication skills |
-
-<br>
-
-## Currently Studying
-
-<p align="left">
-  Java and Object-Oriented Programming • Python • SQL • HTML • CSS • JavaScript • Artificial Intelligence • Git & GitHub
+<p align="center">
+  I'm Enzo Nukui, currently studying <strong>Análise e Desenvolvimento de Sistemas</strong> at FIAP.
+  I build projects to learn in practice, improve my logic and understand how software becomes something real.
 </p>
 
-<br>
-
-## Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
-      <br><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
-      <br><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
-      <br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java" />
-      <br><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-      <br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
-      <br><sub><b>Node.js</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="42" height="42" alt="Oracle" />
-      <br><sub><b>Oracle</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="SQL" />
-      <br><sub><b>SQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-      <br><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
-      <br><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
-      <br><sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="42" height="42" alt="IntelliJ IDEA" />
-      <br><sub><b>IntelliJ</b></sub>
-    </td>
-  </tr>
-</table>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Currently_Exploring-Artificial_Intelligence-2563EB?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/APIs-2563EB?style=flat-square&logo=fastapi&logoColor=white" alt="APIs" />
-  <img src="https://img.shields.io/badge/Software_Architecture-2563EB?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="Software Architecture" />
+<p align="center">
+  I also have a background in <strong>Administração</strong> from IFSP and a <strong>Cambridge English Certificate</strong>,
+  which help me connect technology, organization, communication and product thinking.
 </p>
 
-<br>
+<p align="center">
+  Right now, I'm focused on strengthening my foundation in programming, databases, artificial intelligence and project documentation.
+</p>
 
-## GitHub Stats
+---
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EnzoNukui&show_icons=true&hide_border=false&border_color=2563EB&title_color=2563EB&icon_color=2563EB&text_color=1E3A8A&bg_color=FFFFFF&rank_icon=github&include_all_commits=true" alt="Enzo Nukui GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNukui&layout=compact&hide_border=false&border_color=2563EB&title_color=2563EB&text_color=1E3A8A&bg_color=FFFFFF" alt="Most Used Languages" />
-</div>
+<h3 align="center">Tech Stack</h3>
 
-<br>
+<h4 align="center">Front-end</h4>
 
-## Contact
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+</p>
 
-<p align="left">
+<h4 align="center">Back-end & Programming</h4>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+</p>
+
+<h4 align="center">Database</h4>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+</p>
+
+<h4 align="center">Tools</h4>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA" />
+</p>
+
+<h4 align="center">Currently Exploring</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Software_Architecture-2563EB?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Software Architecture" />
+</p>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img 
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api?username=EnzoNukui&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1E3A8A&bg_color=FFFFFF&rank_icon=github"
+    alt="Enzo Nukui GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNukui&layout=compact&hide_border=true&title_color=2563EB&text_color=1E3A8A&bg_color=FFFFFF"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+<h3 align="center">Connect</h3>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/enzo-nukui/">
     <img src="https://img.shields.io/badge/LINKEDIN-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EnzoNukui/enzonukui/main/assets/banner.png" alt="Enzo Nukui" width="100%"/>
+  <img src="https://raw.githubusercontent.com/EnzoNukui/enzonukui/main/assets/banner.png" alt="Enzo Nukui" width="100%" height="280px" style="object-fit: cover;"/>
 </div>
 
 <br/>
@@ -25,21 +25,41 @@ Advanced English — Cambridge CAE certified.
 
 ### Stack
 
-**Front-end**
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-**Back-end**
-
-<img src="https://skillicons.dev/icons?i=python,java,nodejs" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="200px">
+      <br/>
+      <strong>🖥️ Front-end</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+      <br/><br/>
+    </td>
+    <td width="1px" style="background:#30363d"></td>
+    <td align="center" width="200px">
+      <br/>
+      <strong>⚙️ Back-end</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,java,nodejs" />
+      <br/><br/>
+    </td>
+    <td width="1px" style="background:#30363d"></td>
+    <td align="center" width="200px">
+      <br/>
+      <strong>🗄️ Database</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+      <br/><br/>
+    </td>
+    <td width="1px" style="background:#30363d"></td>
+    <td align="center" width="200px">
+      <br/>
+      <strong>🛠️ Tools</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -49,15 +69,7 @@ Advanced English — Cambridge CAE certified.
   <img src="https://streak-stats.demolab.com?user=enzonukui&theme=transparent&hide_border=true&locale=pt_BR&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&sideLabels=4A90D9&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNukui&layout=compact&theme=transparent&hide_border=true&title_color=4A90D9&text_color=ffffff" />
-</div>
-
 ---
-
-### Let's connect
 
 <div align="center">
 

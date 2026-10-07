@@ -1,4 +1,11 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=893612751115683426" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+
+<p align="center">
+  <img
+    src="./assets/pinterest-github-optimized.webp"
+    alt="Animação do perfil"
+    width="544"
+  />
+</p>
 
 <br/>
 

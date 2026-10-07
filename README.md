@@ -227,6 +227,7 @@ Hoje trabalho principalmente com **Java, Python, React e TypeScript**, além de 
     <img src="https://img.shields.io/badge/Ver_aplicação-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver aplicação">
   </a>
 </p>
+
 ## Experiência técnica
 
 Ao longo dos meus projetos, venho trabalhando com diferentes partes do desenvolvimento de software:

@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EnzoNukui/enzonukui/main/assets/banner.png" alt="Enzo Nukui" width="100%" height="280px" style="object-fit: cover;"/>
-</div>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=893612751115683426" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 
 <br/>
 

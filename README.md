@@ -47,10 +47,9 @@ Hoje trabalho principalmente com **Java, Python, React e TypeScript**, além de 
     <td align="center" width="25%">
       <strong>Banco de Dados</strong>
       <br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" alt="Oracle"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" alt="Oracle"/>
       <br/>
-      <sub>Oracle Database · MySQL · SQL</sub>
     </td>
     <td align="center" width="25%">
       <strong>Ferramentas</strong>

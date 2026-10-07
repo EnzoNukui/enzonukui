@@ -1,32 +1,36 @@
 <p align="center">
   <img
     src="./assets/luffy_banner_crop.webp"
-    alt="Enzo Nukui animated banner"
+    alt="Banner animado de Enzo Nukui"
     width="100%"
   />
 </p>
 
+<div align="center">
+
+[Português](./README.md) | [English](./README.en.md)
+
 <br/>
 
-<div align="center">
-  <em>"Nobody asked for what you're building. Build it anyway."</em>
+<em>"Nobody asked for what you're building. Build it anyway."</em>
+
 </div>
 
-<br/>
+---
+
+## Sobre mim
+
+Olá, eu sou o Enzo 👋
+
+Curso **Análise e Desenvolvimento de Sistemas na FIAP** e venho direcionando meus estudos para desenvolvimento de software.
+
+Gosto de transformar o que aprendo em projetos que realmente funcionam. Por isso, grande parte da minha evolução aconteceu construindo aplicações completas, conectando interface, lógica de negócio, APIs e bancos de dados.
+
+Hoje trabalho principalmente com **Java, Python, React e TypeScript**, além de SQL e bancos relacionais. Tenho interesse tanto em back-end quanto em front-end e busco entender como todas as partes de uma aplicação se conectam.
 
 ---
 
-## Hey, I'm Enzo 👋
-
-I'm a **Software Development** student at **FIAP**, building applications with **Java, Python, React and TypeScript**.
-
-I enjoy working across different parts of a project — from application logic and REST APIs to interfaces, relational databases and deployment. Most of what I learn ends up becoming something I can build, test and put online.
-
-Currently focused on growing as a software developer through projects that combine **back-end, front-end and databases**.
-
----
-
-## Tech Stack
+## Tecnologias
 
 <table align="center">
   <tr>
@@ -41,14 +45,14 @@ Currently focused on growing as a software developer through projects that combi
       <img src="https://skillicons.dev/icons?i=java,python,nodejs,fastapi" />
     </td>
     <td align="center" width="25%">
-      <strong>Database</strong>
+      <strong>Banco de Dados</strong>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=mysql" />
       <br/>
       <sub>Oracle Database · MySQL · SQL</sub>
     </td>
     <td align="center" width="25%">
-      <strong>Tools</strong>
+      <strong>Ferramentas</strong>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
     </td>
@@ -59,24 +63,24 @@ Currently focused on growing as a software developer through projects that combi
 
 <div align="center">
   <sub>
-    REST APIs · JDBC · MVC · OOP · Relational Databases · Git/GitHub
+    APIs REST · JDBC · MVC · POO · Bancos Relacionais · Git/GitHub
   </sub>
 </div>
 
 ---
 
-## Featured Projects
+## Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://ende-sudoku.vercel.app/">
-        <img src="./assets/projects/sudoku.png" alt="Sudoku project preview" width="100%">
+        <img src="./assets/projects/sudoku.png" alt="Preview do projeto Sudoku" width="100%">
       </a>
       <br/><br/>
-      <strong>Sudoku — Full Stack Web Application</strong>
+      <strong>Sudoku</strong>
       <br/><br/>
-      Started as a Python console project and evolved into a complete web application with dynamic Sudoku generation, REST API, Google authentication, Oracle persistence and player rankings.
+      O projeto começou como um Sudoku desenvolvido em Python para o terminal e evoluiu para uma aplicação web completa. Hoje conta com geração dinâmica de partidas, API própria, autenticação com Google, persistência no Oracle Database e ranking de jogadores.
       <br/><br/>
       <code>React</code>
       <code>TypeScript</code>
@@ -84,27 +88,27 @@ Currently focused on growing as a software developer through projects that combi
       <code>FastAPI</code>
       <code>Oracle</code>
       <br/><br/>
-      <a href="https://github.com/EnzoNukui/sudoku"><strong>Repository</strong></a>
+      <a href="https://github.com/EnzoNukui/sudoku"><strong>Repositório</strong></a>
       ·
-      <a href="https://ende-sudoku.vercel.app/"><strong>Live Demo</strong></a>
+      <a href="https://ende-sudoku.vercel.app/"><strong>Deploy</strong></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://httpmon.vercel.app/">
-        <img src="./assets/projects/httpmon.webp" alt="HTTPmon animated project preview" width="100%">
+        <img src="./assets/projects/httpmon.webp" alt="Preview animado do HTTPmon" width="100%">
       </a>
       <br/><br/>
-      <strong>HTTPmon — HTTP Status Explorer</strong>
+      <strong>HTTPmon</strong>
       <br/><br/>
-      A visual way to explore HTTP status codes through practical explanations, request and response examples and scenes from the Pokémon universe.
+      Uma aplicação criada para tornar o aprendizado de códigos de status HTTP mais visual e fácil de lembrar. Cada código é apresentado com explicações, exemplos e uma cena do universo Pokémon relacionada à situação representada.
       <br/><br/>
       <code>React</code>
       <code>TypeScript</code>
       <code>Tailwind CSS</code>
       <code>React Router</code>
       <br/><br/>
-      <a href="https://github.com/EnzoNukui/HTTPmon"><strong>Repository</strong></a>
+      <a href="https://github.com/EnzoNukui/HTTPmon"><strong>Repositório</strong></a>
       ·
-      <a href="https://httpmon.vercel.app/"><strong>Live Demo</strong></a>
+      <a href="https://httpmon.vercel.app/"><strong>Deploy</strong></a>
     </td>
   </tr>
 
@@ -112,60 +116,63 @@ Currently focused on growing as a software developer through projects that combi
     <td width="50%" valign="top">
       <br/>
       <a href="https://locallead.vercel.app/">
-        <img src="./assets/projects/locallead.png" alt="LocalLead project preview" width="100%">
+        <img src="./assets/projects/locallead.png" alt="Preview do LocalLead" width="100%">
       </a>
       <br/><br/>
-      <strong>LocalLead — Railway Mobility Platform</strong>
+      <strong>LocalLead</strong>
       <br/><br/>
-      A mobile-first railway mobility MVP that combines operational status, nearby stations, weather, estimated train arrivals and carriage occupancy in one experience.
+      Plataforma de mobilidade ferroviária criada para reunir informações úteis antes do embarque. O MVP apresenta status das linhas, estação mais próxima, clima, previsões de chegada e estimativas de ocupação dos vagões.
       <br/><br/>
       <code>JavaScript</code>
       <code>Node.js</code>
       <code>Express</code>
-      <code>REST API</code>
+      <code>API REST</code>
       <code>PWA</code>
       <br/><br/>
-      <a href="https://github.com/EnzoNukui/LocalLead"><strong>Repository</strong></a>
+      <a href="https://github.com/EnzoNukui/LocalLead"><strong>Repositório</strong></a>
       ·
-      <a href="https://locallead.vercel.app/"><strong>Live Demo</strong></a>
+      <a href="https://locallead.vercel.app/"><strong>Deploy</strong></a>
     </td>
     <td width="50%" valign="top">
       <br/>
       <a href="https://soulie-sprint3.vercel.app/">
-        <img src="./assets/projects/soulie.png" alt="Soulie project preview" width="100%">
+        <img src="./assets/projects/soulie.png" alt="Preview do projeto Soulie" width="100%">
       </a>
       <br/><br/>
-      <strong>Soulie — Interactive Sustainability Experience</strong>
+      <strong>Soulie</strong>
       <br/><br/>
-      A responsive SPA created for the FIAP Challenge with SoulUp, using an interactive avatar, reusable components, dynamic routes and validated forms to improve user engagement.
+      Aplicação desenvolvida para o Challenge FIAP em parceria com a SoulUp. A proposta utiliza um avatar interativo, missões, progresso e recompensas para tornar a experiência do usuário mais próxima e incentivar recorrência dentro da plataforma.
       <br/><br/>
       <code>React</code>
       <code>TypeScript</code>
       <code>Tailwind CSS</code>
       <code>React Router</code>
       <br/><br/>
-      <a href="https://github.com/EnzoNukui/soulie-sprint3"><strong>Repository</strong></a>
+      <a href="https://github.com/EnzoNukui/soulie-sprint3"><strong>Repositório</strong></a>
       ·
-      <a href="https://soulie-sprint3.vercel.app/"><strong>Live Demo</strong></a>
+      <a href="https://soulie-sprint3.vercel.app/"><strong>Deploy</strong></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## What I've Been Working With
+## Experiência técnica
 
-Beyond the technologies themselves, my projects have given me practical experience with:
+Ao longo dos meus projetos, venho trabalhando com diferentes partes do desenvolvimento de software:
 
-- Building and consuming **REST APIs**
-- Integrating **front-end, back-end and relational databases**
-- Applying **Object-Oriented Programming** and **MVC**
-- Database integration with **JDBC**
-- Authentication and session flows
-- Responsive web interfaces
-- Data validation and error handling
-- Testing, documentation and production deployment
-- Git-based development and collaborative workflows
+- desenvolvimento e consumo de APIs REST
+- integração entre front-end, back-end e banco de dados
+- Programação Orientada a Objetos
+- arquitetura MVC
+- integração com banco de dados utilizando JDBC
+- autenticação e controle de sessão
+- modelagem e persistência de dados
+- validações e tratamento de erros
+- interfaces responsivas
+- testes e documentação
+- deploy de aplicações
+- desenvolvimento colaborativo utilizando Git e GitHub
 
 ---
 
@@ -174,25 +181,22 @@ Beyond the technologies themselves, my projects have given me practical experien
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=EnzoNukui&theme=transparent&hide_border=true"
-    alt="Enzo Nukui GitHub streak"
+    alt="GitHub activity de Enzo Nukui"
   />
 </div>
 
 ---
 
-## Education & Languages
+## Formação
 
-🎓 **Systems Analysis and Development — FIAP**
+🎓 **Análise e Desenvolvimento de Sistemas · FIAP**
 
-🌎 **English — B1 Cambridge English**
+🌎 **Inglês intermediário B1 · Cambridge English**
 
 ---
 
-## Let's Connect
+## Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-nukui/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzonukui2007@gmail.com)
-
-</div>
+[![

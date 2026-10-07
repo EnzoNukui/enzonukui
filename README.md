@@ -73,9 +73,11 @@ Hoje trabalho principalmente com **Java, Python, React e TypeScript**, além de 
 
 ### [Sudoku](https://github.com/EnzoNukui/sudoku)
 
-<a href="https://ende-sudoku.vercel.app/">
-  <img src="./assets/projects/sudoku.png" alt="Preview do Sudoku" width="100%">
-</a>
+<p align="center">
+  <a href="https://ende-sudoku.vercel.app/">
+    <img src="./assets/projects/sudoku.png" alt="Preview do Sudoku" width="75%">
+  </a>
+</p>
 
 `Projeto pessoal` `Full Stack` `Aplicação publicada`
 
@@ -83,21 +85,24 @@ Hoje trabalho principalmente com **Java, Python, React e TypeScript**, além de 
 
 **Destaques técnicos:** API REST com FastAPI, lógica de geração por backtracking, integração entre React e Python, autenticação com Google e persistência de usuários e partidas no Oracle Database.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,python,fastapi,tailwind" alt="React, TypeScript, Python, FastAPI e Tailwind CSS">
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**React · TypeScript · Python · FastAPI · Oracle Database · SQL · Tailwind CSS**
-
-[Repositório](https://github.com/EnzoNukui/sudoku) · [Ver aplicação](https://ende-sudoku.vercel.app/)
+[**Repositório**](https://github.com/EnzoNukui/sudoku) · [**Ver aplicação**](https://ende-sudoku.vercel.app/)
 
 ---
 
 ### [HTTPmon](https://github.com/EnzoNukui/HTTPmon)
 
-<a href="https://httpmon.vercel.app/">
-  <img src="./assets/projects/httpmon.webp" alt="Preview animado do HTTPmon" width="100%">
-</a>
+<p align="center">
+  <a href="https://httpmon.vercel.app/">
+    <img src="./assets/projects/httpmon.webp" alt="Preview animado do HTTPmon" width="75%">
+  </a>
+</p>
 
 `Projeto pessoal` `Front-end` `Aplicação publicada`
 
@@ -105,21 +110,23 @@ Hoje trabalho principalmente com **Java, Python, React e TypeScript**, além de 
 
 **Destaques técnicos:** catálogo tipado de status HTTP, componentes reutilizáveis, rotas dinâmicas para cada código e interface responsiva construída a partir de uma única estrutura de página.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" alt="React, TypeScript, Tailwind CSS e Vite">
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 
-**React · TypeScript · React Router · Tailwind CSS · Vite · Oxlint**
-
-[Repositório](https://github.com/EnzoNukui/HTTPmon) · [Ver aplicação](https://httpmon.vercel.app/)
+[**Repositório**](https://github.com/EnzoNukui/HTTPmon) · [**Ver aplicação**](https://httpmon.vercel.app/)
 
 ---
 
 ### [LocalLead](https://github.com/EnzoNukui/LocalLead)
 
-<a href="https://locallead.vercel.app/">
-  <img src="./assets/projects/locallead.png" alt="Preview do LocalLead" width="100%">
-</a>
+<p align="center">
+  <a href="https://locallead.vercel.app/">
+    <img src="./assets/projects/locallead.png" alt="Preview do LocalLead" width="75%">
+  </a>
+</p>
 
 `Projeto acadêmico` `Full Stack` `MVP publicado`
 
@@ -127,21 +134,23 @@ Hoje trabalho principalmente com **Java, Python, React e TypeScript**, além de 
 
 **Destaques técnicos:** API própria com Node.js e Express, integração com serviços externos, Geolocation API, dados GTFS, estimativas de chegada e funcionamento como PWA.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css" alt="JavaScript, Node.js, Express, HTML e CSS">
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
-**JavaScript · Node.js · Express · APIs REST · GTFS · PWA · HTML · CSS**
-
-[Repositório](https://github.com/EnzoNukui/LocalLead) · [Ver aplicação](https://locallead.vercel.app/)
+[**Repositório**](https://github.com/EnzoNukui/LocalLead) · [**Ver aplicação**](https://locallead.vercel.app/)
 
 ---
 
 ### [Soulie](https://github.com/EnzoNukui/soulie-sprint3)
 
-<a href="https://soulie-sprint3.vercel.app/">
-  <img src="./assets/projects/soulie.png" alt="Preview da Soulie" width="100%">
-</a>
+<p align="center">
+  <a href="https://soulie-sprint3.vercel.app/">
+    <img src="./assets/projects/soulie.png" alt="Preview da Soulie" width="75%">
+  </a>
+</p>
 
 `Projeto acadêmico em equipe` `Front-end` `Aplicação publicada`
 
@@ -149,14 +158,14 @@ Hoje trabalho principalmente com **Java, Python, React e TypeScript**, além de 
 
 **Destaques técnicos:** aplicação SPA componentizada, navegação com rotas estáticas e dinâmicas, formulários tipados e validados, estados interativos e interface responsiva.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" alt="React, TypeScript, Vite e Tailwind CSS">
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
 
-**React · TypeScript · Vite · Tailwind CSS · React Router · React Hook Form**
-
-[Repositório](https://github.com/EnzoNukui/soulie-sprint3) · [Ver aplicação](https://soulie-sprint3.vercel.app/)
-
+[**Repositório**](https://github.com/EnzoNukui/soulie-sprint3) · [**Ver aplicação**](https://soulie-sprint3.vercel.app/)
 ## Experiência técnica
 
 Ao longo dos meus projetos, venho trabalhando com diferentes partes do desenvolvimento de software:

@@ -20,8 +20,6 @@
 
 <h1 align="center">Enzo Nukui</h1>
 
-## Sobre mim
-
 Olá, eu sou o Enzo 👋
 
 Curso **Análise e Desenvolvimento de Sistemas na FIAP** e venho direcionando meus estudos para desenvolvimento de software.

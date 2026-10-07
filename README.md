@@ -1,9 +1,9 @@
 
 <p align="center">
   <img
-    src="./assets/pinterest-github-optimized.webp"
-    alt="Animação do perfil"
-    width="544"
+    src="./assets/luffy_banner_crop.webp"
+    alt="Luffy animated banner"
+    width="100%"
   />
 </p>
 

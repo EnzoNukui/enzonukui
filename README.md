@@ -1,3 +1,15 @@
+<p align="right">
+  <a href="./README.md">
+    <img src="https://flagcdn.com/w20/br.png" width="20" alt="Brasil">
+    Português
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="./README.en.md">
+    <img src="https://flagcdn.com/w20/us.png" width="20" alt="United States">
+    English
+  </a>
+</p>
+
 <p align="center">
   <img
     src="./assets/luffy_banner_crop.webp"
@@ -6,19 +18,7 @@
   />
 </p>
 
-<br/>
-
 <h1 align="center">Enzo Nukui</h1>
-
-<div align="center">
-
-🇧🇷 [Português](./README.md) &nbsp; | &nbsp; 🇺🇸 [English](./README.en.md)
-
-</div>
-
-<br/>
-
----
 
 ## Sobre mim
 

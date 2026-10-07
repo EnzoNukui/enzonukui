@@ -6,15 +6,17 @@
   />
 </p>
 
-<div align="center">
-
-[Português](./README.md) | [English](./README.en.md)
-
 <br/>
 
-<em>"Nobody asked for what you're building. Build it anyway."</em>
+<h1 align="center">Enzo Nukui</h1>
+
+<div align="center">
+
+🇧🇷 [Português](./README.md) &nbsp; | &nbsp; 🇺🇸 [English](./README.en.md)
 
 </div>
+
+<br/>
 
 ---
 

@@ -75,7 +75,7 @@ Hoje trabalho principalmente com **Java, Python, React e TypeScript**, além de 
 
 <p align="center">
   <a href="https://ende-sudoku.vercel.app/">
-    <img src="./assets/projects/sudoku.png" alt="Preview do Sudoku" width="75%">
+    <img src="./assets/projects/sudoku.png" alt="Preview do Sudoku" width="50%">
   </a>
 </p>
 

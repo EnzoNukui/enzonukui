@@ -253,12 +253,20 @@ Grande parte da minha evolução vem de projetos práticos, passando por interfa
 
 ## Contato
 
+Estou aberto a oportunidades de **estágio em desenvolvimento de software**, projetos colaborativos e conexões com pessoas da área de tecnologia.
+
+Se quiser conversar sobre desenvolvimento, algum dos meus projetos ou uma possível oportunidade, pode me encontrar por aqui:
+
 <p align="center">
   <a href="https://www.linkedin.com/in/enzo-nukui/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
+  &nbsp;
   <a href="mailto:enzonukui2007@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
+</p>
+
+<p align="center">
+  <sub>São Paulo, Brasil · Disponível para oportunidades de estágio em desenvolvimento de software</sub>
 </p>

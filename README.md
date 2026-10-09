@@ -234,12 +234,12 @@ Grande parte da minha evolução vem de projetos práticos, passando por interfa
 
 ## GitHub Activity
 
-<div align="center">
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=EnzoNukui&theme=transparent&hide_border=true"
-    alt="GitHub activity de Enzo Nukui"
+    src="https://streak-stats.demolab.com?user=EnzoNukui&theme=transparent&hide_border=true&background=000000&ring=FFD54F&fire=FFD54F&currStreakLabel=E53935&sideLabels=E53935&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B0B0B0"
+    alt="GitHub Activity de Enzo Nukui"
   />
-</div>
+</p>
 
 ---
 

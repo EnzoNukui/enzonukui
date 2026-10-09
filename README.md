@@ -22,12 +22,9 @@
 
 Olá, eu sou o Enzo 👋
 
-Curso **Análise e Desenvolvimento de Sistemas na FIAP** e venho direcionando meus estudos para desenvolvimento de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com foco em desenvolvimento de software. Trabalho principalmente com **Java, Python, React, TypeScript, APIs REST e bancos de dados relacionais**.
 
-Gosto de transformar o que aprendo em projetos que realmente funcionam. Por isso, grande parte da minha evolução aconteceu construindo aplicações completas, conectando interface, lógica de negócio, APIs e bancos de dados.
-
-Hoje trabalho principalmente com **Java, Python, React e TypeScript**, além de SQL e bancos relacionais. Tenho interesse tanto em back-end quanto em front-end e busco entender como todas as partes de uma aplicação se conectam.
-
+Grande parte da minha evolução vem de projetos práticos, passando por interface, lógica de negócio, integração entre front-end e back-end, persistência de dados e deploy. Atualmente sigo aprofundando esses conhecimentos enquanto busco minha primeira oportunidade profissional na área.
 ---
 
 ## Tecnologias

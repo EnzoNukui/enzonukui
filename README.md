@@ -25,7 +25,6 @@ Olá, eu sou o Enzo 👋
 Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com foco em desenvolvimento de software. Trabalho principalmente com **Java, Python, React, TypeScript, APIs REST e bancos de dados relacionais**.
 
 Grande parte da minha evolução vem de projetos práticos, passando por interface, lógica de negócio, integração entre front-end e back-end, persistência de dados e deploy. Atualmente sigo aprofundando esses conhecimentos enquanto busco minha primeira oportunidade profissional na área.
----
 
 ## Tecnologias
 

@@ -222,22 +222,13 @@ Grande parte da minha evolução vem de projetos práticos, passando por interfa
   </a>
 </p>
 
-## Experiência técnica
+## Arquitetura e desenvolvimento
 
-Ao longo dos meus projetos, venho trabalhando com diferentes partes do desenvolvimento de software:
-
-- desenvolvimento e consumo de APIs REST
-- integração entre front-end, back-end e banco de dados
-- Programação Orientada a Objetos
-- arquitetura MVC
-- integração com banco de dados utilizando JDBC
-- autenticação e controle de sessão
-- modelagem e persistência de dados
-- validações e tratamento de erros
-- interfaces responsivas
-- testes e documentação
-- deploy de aplicações
-- desenvolvimento colaborativo utilizando Git e GitHub
+<div align="center">
+`Programação Orientada a Objetos` · `MVC` · `Arquitetura em Camadas` · `Separação de Responsabilidades`
+`APIs REST` · `Persistência de Dados` · `Autenticação` · `Validação e Tratamento de Erros`
+`Versionamento` · `Documentação` · `Testes` · `Deploy`
+</div>
 
 ---
 
